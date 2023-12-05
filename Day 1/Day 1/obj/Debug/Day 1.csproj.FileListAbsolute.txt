@@ -1,0 +1,7 @@
+B:\Computer Science\AOC\Day 1\Day 1\bin\Debug\Day 1.exe.config
+B:\Computer Science\AOC\Day 1\Day 1\bin\Debug\Day 1.exe
+B:\Computer Science\AOC\Day 1\Day 1\bin\Debug\Day 1.pdb
+B:\Computer Science\AOC\Day 1\Day 1\obj\Debug\Day 1.csproj.AssemblyReference.cache
+B:\Computer Science\AOC\Day 1\Day 1\obj\Debug\Day 1.csproj.CoreCompileInputs.cache
+B:\Computer Science\AOC\Day 1\Day 1\obj\Debug\Day 1.exe
+B:\Computer Science\AOC\Day 1\Day 1\obj\Debug\Day 1.pdb
